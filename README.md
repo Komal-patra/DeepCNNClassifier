@@ -7,4 +7,9 @@ The End-to-End Deep learning CNN classifier
         python template.py
     ```
 
+2. In order to create the environment and install the dependencies, run the below command:
+    ```
+        bash init_setup.sh
+    ```
+
 
