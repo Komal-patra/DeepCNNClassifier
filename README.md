@@ -46,3 +46,12 @@ components workflow
 ]
 
 ```
+
+
+4. For testing, we can use pytest
+
+    ```
+        pytest -v
+    ```
+
+    where v means verbose
